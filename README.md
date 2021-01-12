@@ -12,3 +12,12 @@ sudo chmod +x setup.sh&&sudo sh settup.sh
 Thats it.
 
 Be sure to backup your /var/www/html first if already running apache2 or otherwebserver because this will overwrite it.
+
+
+___________________________________________________________
+
+
+Or just use: 
+
+https://codemasterv.github.io/
+
