@@ -1,0 +1,16 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.50-5.07)/ToDex/common.js
+../../../../exploits/PS4%20(4.50-5.07)/ToDex/index.html
+../../../../exploits/PS4%20(4.50-5.07)/ToDex/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20(4.50-5.07)/ToDex/offsets.js
+../../../../exploits/PS4%20(4.50-5.07)/ToDex/rop.js
+../../../../exploits/PS4%20(4.50-5.07)/ToDex/userland.js
+../../../../exploits/PS4%20(4.50-5.07)/ToDex/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20(4.50-5.07)/ToDex/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: 05D037B71DD67289A1E27CC60802F586

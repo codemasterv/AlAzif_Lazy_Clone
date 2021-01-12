@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20Linux/4.05/expl.js
+../../../../exploits/PS4%20Linux/4.05/fix.js
+../../../../exploits/PS4%20Linux/4.05/gadgets.js
+../../../../exploits/PS4%20Linux/4.05/index.html
+../../../../exploits/PS4%20Linux/4.05/payload.js
+../../../../exploits/PS4%20Linux/4.05/rop.js
+../../../../exploits/PS4%20Linux/4.05/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 5A8168EA981B351A0D6BB434BFCE787D

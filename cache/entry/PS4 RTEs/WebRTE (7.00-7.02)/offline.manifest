@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20RTEs/WebRTE%20(7.00-7.02)/index.html
+../../../../exploits/PS4%20RTEs/WebRTE%20(7.00-7.02)/int64.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(7.00-7.02)/payload.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(7.00-7.02)/ps4.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(7.00-7.02)/rop.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(7.00-7.02)/userland.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(7.00-7.02)/utils.js
+
+NETWORK:
+*
+
+# Hash: 06E3093F2DCD40740700317B0EA94D19

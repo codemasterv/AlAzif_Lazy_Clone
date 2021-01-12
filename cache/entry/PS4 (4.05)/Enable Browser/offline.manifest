@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.05)/Enable%20Browser/expl.js
+../../../../exploits/PS4%20(4.05)/Enable%20Browser/fix.js
+../../../../exploits/PS4%20(4.05)/Enable%20Browser/gadgets.js
+../../../../exploits/PS4%20(4.05)/Enable%20Browser/index.html
+../../../../exploits/PS4%20(4.05)/Enable%20Browser/payload.js
+../../../../exploits/PS4%20(4.05)/Enable%20Browser/rop.js
+../../../../exploits/PS4%20(4.05)/Enable%20Browser/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 95ED51DAF9DA600987B30CD653BA1739

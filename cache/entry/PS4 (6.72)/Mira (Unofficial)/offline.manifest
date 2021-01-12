@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/Mira%20(Unofficial)/c-code.js
+../../../../exploits/PS4%20(6.72)/Mira%20(Unofficial)/exploit.js
+../../../../exploits/PS4%20(6.72)/Mira%20(Unofficial)/helpers.js
+../../../../exploits/PS4%20(6.72)/Mira%20(Unofficial)/index.html
+../../../../exploits/PS4%20(6.72)/Mira%20(Unofficial)/jailbreak.js
+../../../../exploits/PS4%20(6.72)/Mira%20(Unofficial)/loader.js
+../../../../exploits/PS4%20(6.72)/Mira%20(Unofficial)/malloc.js
+../../../../exploits/PS4%20(6.72)/Mira%20(Unofficial)/payload.js
+../../../../exploits/PS4%20(6.72)/Mira%20(Unofficial)/rop.js
+../../../../exploits/PS4%20(6.72)/Mira%20(Unofficial)/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 2AD47C1E840C5F71D6665905185A3550

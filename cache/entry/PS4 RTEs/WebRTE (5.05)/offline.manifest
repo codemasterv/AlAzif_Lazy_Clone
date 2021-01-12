@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20RTEs/WebRTE%20(5.05)/common.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(5.05)/index.html
+../../../../exploits/PS4%20RTEs/WebRTE%20(5.05)/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(5.05)/offsets.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(5.05)/payload.bin
+../../../../exploits/PS4%20RTEs/WebRTE%20(5.05)/rop.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(5.05)/userland.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(5.05)/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(5.05)/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: 3408A17743B6C37C9F1DB42CD7843DE9

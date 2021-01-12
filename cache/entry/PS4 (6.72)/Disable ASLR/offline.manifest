@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/Disable%20ASLR/c-code.js
+../../../../exploits/PS4%20(6.72)/Disable%20ASLR/exploit.js
+../../../../exploits/PS4%20(6.72)/Disable%20ASLR/helpers.js
+../../../../exploits/PS4%20(6.72)/Disable%20ASLR/index.html
+../../../../exploits/PS4%20(6.72)/Disable%20ASLR/jailbreak.js
+../../../../exploits/PS4%20(6.72)/Disable%20ASLR/loader.js
+../../../../exploits/PS4%20(6.72)/Disable%20ASLR/malloc.js
+../../../../exploits/PS4%20(6.72)/Disable%20ASLR/payload.js
+../../../../exploits/PS4%20(6.72)/Disable%20ASLR/rop.js
+../../../../exploits/PS4%20(6.72)/Disable%20ASLR/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 45C866CAE70EE958A2410D0C67AD3CF1

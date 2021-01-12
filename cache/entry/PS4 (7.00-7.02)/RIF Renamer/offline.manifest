@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(7.00-7.02)/RIF%20Renamer/index.html
+../../../../exploits/PS4%20(7.00-7.02)/RIF%20Renamer/int64.js
+../../../../exploits/PS4%20(7.00-7.02)/RIF%20Renamer/payload.js
+../../../../exploits/PS4%20(7.00-7.02)/RIF%20Renamer/ps4.js
+../../../../exploits/PS4%20(7.00-7.02)/RIF%20Renamer/rop.js
+../../../../exploits/PS4%20(7.00-7.02)/RIF%20Renamer/userland.js
+../../../../exploits/PS4%20(7.00-7.02)/RIF%20Renamer/utils.js
+
+NETWORK:
+*
+
+# Hash: 374C1C6A0DBACDDAD98247EB410C4EB1

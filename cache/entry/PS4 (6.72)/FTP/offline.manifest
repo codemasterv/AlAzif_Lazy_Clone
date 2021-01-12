@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/FTP/c-code.js
+../../../../exploits/PS4%20(6.72)/FTP/exploit.js
+../../../../exploits/PS4%20(6.72)/FTP/helpers.js
+../../../../exploits/PS4%20(6.72)/FTP/index.html
+../../../../exploits/PS4%20(6.72)/FTP/jailbreak.js
+../../../../exploits/PS4%20(6.72)/FTP/loader.js
+../../../../exploits/PS4%20(6.72)/FTP/malloc.js
+../../../../exploits/PS4%20(6.72)/FTP/payload.js
+../../../../exploits/PS4%20(6.72)/FTP/rop.js
+../../../../exploits/PS4%20(6.72)/FTP/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 2CA5CC7B9A788D8CE2BB3628BDB214D8

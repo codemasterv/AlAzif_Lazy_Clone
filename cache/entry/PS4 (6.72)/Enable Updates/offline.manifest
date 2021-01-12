@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/Enable%20Updates/c-code.js
+../../../../exploits/PS4%20(6.72)/Enable%20Updates/exploit.js
+../../../../exploits/PS4%20(6.72)/Enable%20Updates/helpers.js
+../../../../exploits/PS4%20(6.72)/Enable%20Updates/index.html
+../../../../exploits/PS4%20(6.72)/Enable%20Updates/jailbreak.js
+../../../../exploits/PS4%20(6.72)/Enable%20Updates/loader.js
+../../../../exploits/PS4%20(6.72)/Enable%20Updates/malloc.js
+../../../../exploits/PS4%20(6.72)/Enable%20Updates/payload.js
+../../../../exploits/PS4%20(6.72)/Enable%20Updates/rop.js
+../../../../exploits/PS4%20(6.72)/Enable%20Updates/syscalls.js
+
+NETWORK:
+*
+
+# Hash: C5C478E4EEDB1A8F6FD0D2302DB0301F

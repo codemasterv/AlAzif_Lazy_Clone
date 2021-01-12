@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.50-5.07)/REN/common.js
+../../../../exploits/PS4%20(4.50-5.07)/REN/index.html
+../../../../exploits/PS4%20(4.50-5.07)/REN/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20(4.50-5.07)/REN/offsets.js
+../../../../exploits/PS4%20(4.50-5.07)/REN/payload.bin
+../../../../exploits/PS4%20(4.50-5.07)/REN/rop.js
+../../../../exploits/PS4%20(4.50-5.07)/REN/userland.js
+../../../../exploits/PS4%20(4.50-5.07)/REN/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20(4.50-5.07)/REN/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: 654D86305876EC1E423FB28E3D7A9C46

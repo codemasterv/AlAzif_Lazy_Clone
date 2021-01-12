@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(7.00-7.02)/Disable%20ASLR/index.html
+../../../../exploits/PS4%20(7.00-7.02)/Disable%20ASLR/int64.js
+../../../../exploits/PS4%20(7.00-7.02)/Disable%20ASLR/payload.js
+../../../../exploits/PS4%20(7.00-7.02)/Disable%20ASLR/ps4.js
+../../../../exploits/PS4%20(7.00-7.02)/Disable%20ASLR/rop.js
+../../../../exploits/PS4%20(7.00-7.02)/Disable%20ASLR/userland.js
+../../../../exploits/PS4%20(7.00-7.02)/Disable%20ASLR/utils.js
+
+NETWORK:
+*
+
+# Hash: DB6E83A69AD17C1207C3D62D8167CECB

@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(7.00-7.02)/HEN/index.html
+../../../../exploits/PS4%20(7.00-7.02)/HEN/int64.js
+../../../../exploits/PS4%20(7.00-7.02)/HEN/ps4.js
+../../../../exploits/PS4%20(7.00-7.02)/HEN/rop.js
+../../../../exploits/PS4%20(7.00-7.02)/HEN/userland.js
+../../../../exploits/PS4%20(7.00-7.02)/HEN/utils.js
+
+NETWORK:
+*
+
+# Hash: EC7A5E26BDB6105041FBCBB2C7F93953

@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.50-5.07)/Restore/common.js
+../../../../exploits/PS4%20(4.50-5.07)/Restore/index.html
+../../../../exploits/PS4%20(4.50-5.07)/Restore/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20(4.50-5.07)/Restore/offsets.js
+../../../../exploits/PS4%20(4.50-5.07)/Restore/payload.bin
+../../../../exploits/PS4%20(4.50-5.07)/Restore/rop.js
+../../../../exploits/PS4%20(4.50-5.07)/Restore/userland.js
+../../../../exploits/PS4%20(4.50-5.07)/Restore/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20(4.50-5.07)/Restore/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: E28FA1A68454FB57689A4B6B83630320

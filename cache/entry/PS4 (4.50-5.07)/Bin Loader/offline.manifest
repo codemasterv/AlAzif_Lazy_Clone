@@ -1,0 +1,16 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.50-5.07)/Bin%20Loader/common.js
+../../../../exploits/PS4%20(4.50-5.07)/Bin%20Loader/index.html
+../../../../exploits/PS4%20(4.50-5.07)/Bin%20Loader/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20(4.50-5.07)/Bin%20Loader/offsets.js
+../../../../exploits/PS4%20(4.50-5.07)/Bin%20Loader/rop.js
+../../../../exploits/PS4%20(4.50-5.07)/Bin%20Loader/userland.js
+../../../../exploits/PS4%20(4.50-5.07)/Bin%20Loader/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20(4.50-5.07)/Bin%20Loader/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: 1BBFFB96642D473790FB238E336F9D47

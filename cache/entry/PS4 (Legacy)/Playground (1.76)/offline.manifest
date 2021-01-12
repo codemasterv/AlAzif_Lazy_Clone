@@ -1,0 +1,19 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/browser.html
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/index.html
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/css/index.html
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/css/main.css
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/js/code.js
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/js/exploit.js
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/js/gadgets.js
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/js/index.html
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/js/just-rop.js
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/js/network.js
+../../../../exploits/PS4%20(Legacy)/Playground%20(1.76)/js/utils.js
+
+NETWORK:
+*
+
+# Hash: 1DEF7076906FC79F2984B6037AA589DE

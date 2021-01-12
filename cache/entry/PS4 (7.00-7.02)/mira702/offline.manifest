@@ -1,0 +1,24 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(7.00-7.02)/mira702/home.html
+../../../../exploits/PS4%20(7.00-7.02)/mira702/index.html
+../../../../exploits/PS4%20(7.00-7.02)/mira702/index1.html
+../../../../exploits/PS4%20(7.00-7.02)/mira702/mira.html
+../../../../exploits/PS4%20(7.00-7.02)/mira702/mira.js
+../../../../exploits/PS4%20(7.00-7.02)/mira702/mira2.js
+../../../../exploits/PS4%20(7.00-7.02)/mira702/payload702.html
+../../../../exploits/PS4%20(7.00-7.02)/mira702/common/exploit.js
+../../../../exploits/PS4%20(7.00-7.02)/mira702/common/helpers.js
+../../../../exploits/PS4%20(7.00-7.02)/mira702/common/malloc.js
+../../../../exploits/PS4%20(7.00-7.02)/mira702/common/rop.js
+../../../../exploits/PS4%20(7.00-7.02)/mira702/common/syscalls.js
+../../../../exploits/PS4%20(7.00-7.02)/mira702/common/syscalls2.js
+../../../../exploits/PS4%20(7.00-7.02)/mira702/mira/c-code.js
+../../../../exploits/PS4%20(7.00-7.02)/mira702/mira/mira.js
+../../../../exploits/PS4%20(7.00-7.02)/mira702/mira/mira2.js
+
+NETWORK:
+*
+
+# Hash: 1EC34D4B4A2DC5A803594DF4C6030EC1

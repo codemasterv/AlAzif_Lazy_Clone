@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.50-5.07)/Module%20Dumper/common.js
+../../../../exploits/PS4%20(4.50-5.07)/Module%20Dumper/index.html
+../../../../exploits/PS4%20(4.50-5.07)/Module%20Dumper/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20(4.50-5.07)/Module%20Dumper/offsets.js
+../../../../exploits/PS4%20(4.50-5.07)/Module%20Dumper/payload.bin
+../../../../exploits/PS4%20(4.50-5.07)/Module%20Dumper/rop.js
+../../../../exploits/PS4%20(4.50-5.07)/Module%20Dumper/userland.js
+../../../../exploits/PS4%20(4.50-5.07)/Module%20Dumper/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20(4.50-5.07)/Module%20Dumper/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: 86866701057F4A610D9890F64EBC3E9B

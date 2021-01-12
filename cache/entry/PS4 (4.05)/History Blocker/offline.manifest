@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.05)/History%20Blocker/expl.js
+../../../../exploits/PS4%20(4.05)/History%20Blocker/fix.js
+../../../../exploits/PS4%20(4.05)/History%20Blocker/gadgets.js
+../../../../exploits/PS4%20(4.05)/History%20Blocker/index.html
+../../../../exploits/PS4%20(4.05)/History%20Blocker/payload.js
+../../../../exploits/PS4%20(4.05)/History%20Blocker/rop.js
+../../../../exploits/PS4%20(4.05)/History%20Blocker/syscalls.js
+
+NETWORK:
+*
+
+# Hash: A3356CF19FE48C709E7132703590C287

@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/ToDex/c-code.js
+../../../../exploits/PS4%20(6.72)/ToDex/exploit.js
+../../../../exploits/PS4%20(6.72)/ToDex/helpers.js
+../../../../exploits/PS4%20(6.72)/ToDex/index.html
+../../../../exploits/PS4%20(6.72)/ToDex/jailbreak.js
+../../../../exploits/PS4%20(6.72)/ToDex/loader.js
+../../../../exploits/PS4%20(6.72)/ToDex/malloc.js
+../../../../exploits/PS4%20(6.72)/ToDex/payload.js
+../../../../exploits/PS4%20(6.72)/ToDex/rop.js
+../../../../exploits/PS4%20(6.72)/ToDex/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 729878A3AD09F10A480656DB6A9CA056

@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/Module%20Dumper/c-code.js
+../../../../exploits/PS4%20(6.72)/Module%20Dumper/exploit.js
+../../../../exploits/PS4%20(6.72)/Module%20Dumper/helpers.js
+../../../../exploits/PS4%20(6.72)/Module%20Dumper/index.html
+../../../../exploits/PS4%20(6.72)/Module%20Dumper/jailbreak.js
+../../../../exploits/PS4%20(6.72)/Module%20Dumper/loader.js
+../../../../exploits/PS4%20(6.72)/Module%20Dumper/malloc.js
+../../../../exploits/PS4%20(6.72)/Module%20Dumper/payload.js
+../../../../exploits/PS4%20(6.72)/Module%20Dumper/rop.js
+../../../../exploits/PS4%20(6.72)/Module%20Dumper/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 44D1320065118CD85B4084AD656C4A35

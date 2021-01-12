@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.05)/Enable%20Updates/expl.js
+../../../../exploits/PS4%20(4.05)/Enable%20Updates/fix.js
+../../../../exploits/PS4%20(4.05)/Enable%20Updates/gadgets.js
+../../../../exploits/PS4%20(4.05)/Enable%20Updates/index.html
+../../../../exploits/PS4%20(4.05)/Enable%20Updates/payload.js
+../../../../exploits/PS4%20(4.05)/Enable%20Updates/rop.js
+../../../../exploits/PS4%20(4.05)/Enable%20Updates/syscalls.js
+
+NETWORK:
+*
+
+# Hash: AB0C4922783BD4B2714DFB170842116F

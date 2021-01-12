@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/Restore/c-code.js
+../../../../exploits/PS4%20(6.72)/Restore/exploit.js
+../../../../exploits/PS4%20(6.72)/Restore/helpers.js
+../../../../exploits/PS4%20(6.72)/Restore/index.html
+../../../../exploits/PS4%20(6.72)/Restore/jailbreak.js
+../../../../exploits/PS4%20(6.72)/Restore/loader.js
+../../../../exploits/PS4%20(6.72)/Restore/malloc.js
+../../../../exploits/PS4%20(6.72)/Restore/payload.js
+../../../../exploits/PS4%20(6.72)/Restore/rop.js
+../../../../exploits/PS4%20(6.72)/Restore/syscalls.js
+
+NETWORK:
+*
+
+# Hash: DC328D8061F7D7B1D1C10DC80933865B

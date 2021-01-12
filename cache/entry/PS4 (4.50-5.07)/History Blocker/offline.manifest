@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.50-5.07)/History%20Blocker/common.js
+../../../../exploits/PS4%20(4.50-5.07)/History%20Blocker/index.html
+../../../../exploits/PS4%20(4.50-5.07)/History%20Blocker/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20(4.50-5.07)/History%20Blocker/offsets.js
+../../../../exploits/PS4%20(4.50-5.07)/History%20Blocker/payload.bin
+../../../../exploits/PS4%20(4.50-5.07)/History%20Blocker/rop.js
+../../../../exploits/PS4%20(4.50-5.07)/History%20Blocker/userland.js
+../../../../exploits/PS4%20(4.50-5.07)/History%20Blocker/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20(4.50-5.07)/History%20Blocker/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: F2BCA68B515D3A485070D3435B916F83

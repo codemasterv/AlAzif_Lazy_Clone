@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(7.00-7.02)/App%20Dumper/index.html
+../../../../exploits/PS4%20(7.00-7.02)/App%20Dumper/int64.js
+../../../../exploits/PS4%20(7.00-7.02)/App%20Dumper/payload.js
+../../../../exploits/PS4%20(7.00-7.02)/App%20Dumper/ps4.js
+../../../../exploits/PS4%20(7.00-7.02)/App%20Dumper/rop.js
+../../../../exploits/PS4%20(7.00-7.02)/App%20Dumper/userland.js
+../../../../exploits/PS4%20(7.00-7.02)/App%20Dumper/utils.js
+
+NETWORK:
+*
+
+# Hash: C857008E3082A9C9E2E41110F080F241

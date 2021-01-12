@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/Kernel%20Dumper/c-code.js
+../../../../exploits/PS4%20(6.72)/Kernel%20Dumper/exploit.js
+../../../../exploits/PS4%20(6.72)/Kernel%20Dumper/helpers.js
+../../../../exploits/PS4%20(6.72)/Kernel%20Dumper/index.html
+../../../../exploits/PS4%20(6.72)/Kernel%20Dumper/jailbreak.js
+../../../../exploits/PS4%20(6.72)/Kernel%20Dumper/loader.js
+../../../../exploits/PS4%20(6.72)/Kernel%20Dumper/malloc.js
+../../../../exploits/PS4%20(6.72)/Kernel%20Dumper/payload.js
+../../../../exploits/PS4%20(6.72)/Kernel%20Dumper/rop.js
+../../../../exploits/PS4%20(6.72)/Kernel%20Dumper/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 6000FCCB01C10F8D43411A16C3A2F969

@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../exploits/Switch/index.html
+../../../exploits/Switch/nx-hbexploit300/bundle.js
+../../../exploits/Switch/nx-hbexploit300/cache
+../../../exploits/Switch/nx-hbexploit300/exploit.html
+../../../exploits/Switch/nx-hbexploit300/index.html
+../../../exploits/Switch/nx-hbexploit300/installer.nro
+../../../exploits/Switch/nx-hbexploit300/minmain.js
+../../../exploits/Switch/nx-hbexploit300/rop.bin
+../../../exploits/Switch/nx-hbexploit300/rop_relocs.bin
+
+NETWORK:
+*
+
+# Hash: 1E852CF24F27C6C140E51D9AC01955F6

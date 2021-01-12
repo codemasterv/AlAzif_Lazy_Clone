@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cthugha.exploit.menu/sitemap.xml

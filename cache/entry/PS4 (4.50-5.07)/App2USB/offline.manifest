@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.50-5.07)/App2USB/common.js
+../../../../exploits/PS4%20(4.50-5.07)/App2USB/index.html
+../../../../exploits/PS4%20(4.50-5.07)/App2USB/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20(4.50-5.07)/App2USB/offsets.js
+../../../../exploits/PS4%20(4.50-5.07)/App2USB/payload.bin
+../../../../exploits/PS4%20(4.50-5.07)/App2USB/rop.js
+../../../../exploits/PS4%20(4.50-5.07)/App2USB/userland.js
+../../../../exploits/PS4%20(4.50-5.07)/App2USB/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20(4.50-5.07)/App2USB/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: C28DC700792914EC85A51796F5D484E5

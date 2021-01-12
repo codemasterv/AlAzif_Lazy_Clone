@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/History%20Blocker/c-code.js
+../../../../exploits/PS4%20(6.72)/History%20Blocker/exploit.js
+../../../../exploits/PS4%20(6.72)/History%20Blocker/helpers.js
+../../../../exploits/PS4%20(6.72)/History%20Blocker/index.html
+../../../../exploits/PS4%20(6.72)/History%20Blocker/jailbreak.js
+../../../../exploits/PS4%20(6.72)/History%20Blocker/loader.js
+../../../../exploits/PS4%20(6.72)/History%20Blocker/malloc.js
+../../../../exploits/PS4%20(6.72)/History%20Blocker/payload.js
+../../../../exploits/PS4%20(6.72)/History%20Blocker/rop.js
+../../../../exploits/PS4%20(6.72)/History%20Blocker/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 2F6C4DF163B73B8568B48A1C854329C4

@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.50-5.07)/RIF%20Renamer/common.js
+../../../../exploits/PS4%20(4.50-5.07)/RIF%20Renamer/index.html
+../../../../exploits/PS4%20(4.50-5.07)/RIF%20Renamer/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20(4.50-5.07)/RIF%20Renamer/offsets.js
+../../../../exploits/PS4%20(4.50-5.07)/RIF%20Renamer/payload.bin
+../../../../exploits/PS4%20(4.50-5.07)/RIF%20Renamer/rop.js
+../../../../exploits/PS4%20(4.50-5.07)/RIF%20Renamer/userland.js
+../../../../exploits/PS4%20(4.50-5.07)/RIF%20Renamer/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20(4.50-5.07)/RIF%20Renamer/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: 135F83F58D30FEC2FA1E98E5DFE41463

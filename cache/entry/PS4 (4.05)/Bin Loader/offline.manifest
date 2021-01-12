@@ -1,0 +1,16 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.05)/Bin%20Loader/expl.js
+../../../../exploits/PS4%20(4.05)/Bin%20Loader/fix.js
+../../../../exploits/PS4%20(4.05)/Bin%20Loader/gadgets.js
+../../../../exploits/PS4%20(4.05)/Bin%20Loader/index.html
+../../../../exploits/PS4%20(4.05)/Bin%20Loader/loader.js
+../../../../exploits/PS4%20(4.05)/Bin%20Loader/ping.js
+../../../../exploits/PS4%20(4.05)/Bin%20Loader/rop.js
+../../../../exploits/PS4%20(4.05)/Bin%20Loader/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 7433787E756F8F298D782EDEFBBDC97E

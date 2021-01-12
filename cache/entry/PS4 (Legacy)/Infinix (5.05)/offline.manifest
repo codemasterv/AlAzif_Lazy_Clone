@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(Legacy)/Infinix%20(5.05)/common.js
+../../../../exploits/PS4%20(Legacy)/Infinix%20(5.05)/index.html
+../../../../exploits/PS4%20(Legacy)/Infinix%20(5.05)/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20(Legacy)/Infinix%20(5.05)/offsets.js
+../../../../exploits/PS4%20(Legacy)/Infinix%20(5.05)/payload.bin
+../../../../exploits/PS4%20(Legacy)/Infinix%20(5.05)/rop.js
+../../../../exploits/PS4%20(Legacy)/Infinix%20(5.05)/userland.js
+../../../../exploits/PS4%20(Legacy)/Infinix%20(5.05)/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20(Legacy)/Infinix%20(5.05)/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: C2F067248CD7F32E616379A4AA1F294F

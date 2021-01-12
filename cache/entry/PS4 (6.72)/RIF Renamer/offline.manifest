@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/RIF%20Renamer/c-code.js
+../../../../exploits/PS4%20(6.72)/RIF%20Renamer/exploit.js
+../../../../exploits/PS4%20(6.72)/RIF%20Renamer/helpers.js
+../../../../exploits/PS4%20(6.72)/RIF%20Renamer/index.html
+../../../../exploits/PS4%20(6.72)/RIF%20Renamer/jailbreak.js
+../../../../exploits/PS4%20(6.72)/RIF%20Renamer/loader.js
+../../../../exploits/PS4%20(6.72)/RIF%20Renamer/malloc.js
+../../../../exploits/PS4%20(6.72)/RIF%20Renamer/payload.js
+../../../../exploits/PS4%20(6.72)/RIF%20Renamer/rop.js
+../../../../exploits/PS4%20(6.72)/RIF%20Renamer/syscalls.js
+
+NETWORK:
+*
+
+# Hash: A0AF490542F0B0A36EE49AD33E080151

@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(7.00-7.02)/Restore/index.html
+../../../../exploits/PS4%20(7.00-7.02)/Restore/int64.js
+../../../../exploits/PS4%20(7.00-7.02)/Restore/payload.js
+../../../../exploits/PS4%20(7.00-7.02)/Restore/ps4.js
+../../../../exploits/PS4%20(7.00-7.02)/Restore/rop.js
+../../../../exploits/PS4%20(7.00-7.02)/Restore/userland.js
+../../../../exploits/PS4%20(7.00-7.02)/Restore/utils.js
+
+NETWORK:
+*
+
+# Hash: C490F8C9382AD978998960821F498FE6

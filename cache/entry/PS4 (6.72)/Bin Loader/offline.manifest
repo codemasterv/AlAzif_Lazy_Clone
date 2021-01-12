@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/Bin%20Loader/c-code.js
+../../../../exploits/PS4%20(6.72)/Bin%20Loader/exploit.js
+../../../../exploits/PS4%20(6.72)/Bin%20Loader/helpers.js
+../../../../exploits/PS4%20(6.72)/Bin%20Loader/index.html
+../../../../exploits/PS4%20(6.72)/Bin%20Loader/jailbreak.js
+../../../../exploits/PS4%20(6.72)/Bin%20Loader/loader.js
+../../../../exploits/PS4%20(6.72)/Bin%20Loader/malloc.js
+../../../../exploits/PS4%20(6.72)/Bin%20Loader/rop.js
+../../../../exploits/PS4%20(6.72)/Bin%20Loader/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 527DBE6A6E08197AD103C7A1259ED27E

@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20Linux/6.72%20(Baikal)/c-code.js
+../../../../exploits/PS4%20Linux/6.72%20(Baikal)/exploit.js
+../../../../exploits/PS4%20Linux/6.72%20(Baikal)/helpers.js
+../../../../exploits/PS4%20Linux/6.72%20(Baikal)/index.html
+../../../../exploits/PS4%20Linux/6.72%20(Baikal)/jailbreak.js
+../../../../exploits/PS4%20Linux/6.72%20(Baikal)/loader.js
+../../../../exploits/PS4%20Linux/6.72%20(Baikal)/malloc.js
+../../../../exploits/PS4%20Linux/6.72%20(Baikal)/payload.js
+../../../../exploits/PS4%20Linux/6.72%20(Baikal)/rop.js
+../../../../exploits/PS4%20Linux/6.72%20(Baikal)/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 34164B710FBB4108805DE849FA44423D

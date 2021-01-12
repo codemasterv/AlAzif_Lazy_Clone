@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20Linux/6.72%20(Internal%20Aeolia)/c-code.js
+../../../../exploits/PS4%20Linux/6.72%20(Internal%20Aeolia)/exploit.js
+../../../../exploits/PS4%20Linux/6.72%20(Internal%20Aeolia)/helpers.js
+../../../../exploits/PS4%20Linux/6.72%20(Internal%20Aeolia)/index.html
+../../../../exploits/PS4%20Linux/6.72%20(Internal%20Aeolia)/jailbreak.js
+../../../../exploits/PS4%20Linux/6.72%20(Internal%20Aeolia)/loader.js
+../../../../exploits/PS4%20Linux/6.72%20(Internal%20Aeolia)/malloc.js
+../../../../exploits/PS4%20Linux/6.72%20(Internal%20Aeolia)/payload.js
+../../../../exploits/PS4%20Linux/6.72%20(Internal%20Aeolia)/rop.js
+../../../../exploits/PS4%20Linux/6.72%20(Internal%20Aeolia)/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 4F43767499D4579B6A1623241C723251

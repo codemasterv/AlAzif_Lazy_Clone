@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20RTEs/WebRTE%20(6.72)/c-code.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(6.72)/exploit.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(6.72)/helpers.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(6.72)/index.html
+../../../../exploits/PS4%20RTEs/WebRTE%20(6.72)/jailbreak.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(6.72)/loader.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(6.72)/malloc.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(6.72)/payload.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(6.72)/rop.js
+../../../../exploits/PS4%20RTEs/WebRTE%20(6.72)/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 979FD3E06AD9B65F45FA86B2D98ABAC3

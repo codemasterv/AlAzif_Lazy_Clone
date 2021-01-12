@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.50-5.07)/FTP/common.js
+../../../../exploits/PS4%20(4.50-5.07)/FTP/index.html
+../../../../exploits/PS4%20(4.50-5.07)/FTP/kernelExploit_bpf_double_free.js
+../../../../exploits/PS4%20(4.50-5.07)/FTP/offsets.js
+../../../../exploits/PS4%20(4.50-5.07)/FTP/payload.bin
+../../../../exploits/PS4%20(4.50-5.07)/FTP/rop.js
+../../../../exploits/PS4%20(4.50-5.07)/FTP/userland.js
+../../../../exploits/PS4%20(4.50-5.07)/FTP/webkitExploit_haveABadTime.js
+../../../../exploits/PS4%20(4.50-5.07)/FTP/webkitExploit_stackUnitializedRead.js
+
+NETWORK:
+*
+
+# Hash: CC9374CADD134CCC392B6827BAAD55AE

@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(4.05)/Kernel%20Dumper/expl.js
+../../../../exploits/PS4%20(4.05)/Kernel%20Dumper/fix.js
+../../../../exploits/PS4%20(4.05)/Kernel%20Dumper/gadgets.js
+../../../../exploits/PS4%20(4.05)/Kernel%20Dumper/index.html
+../../../../exploits/PS4%20(4.05)/Kernel%20Dumper/payload.js
+../../../../exploits/PS4%20(4.05)/Kernel%20Dumper/rop.js
+../../../../exploits/PS4%20(4.05)/Kernel%20Dumper/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 5145A6AE7DDC7858FAA29C1F2DEC93CF

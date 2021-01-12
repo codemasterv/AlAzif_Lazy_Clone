@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/PS4%20(6.72)/App2USB/c-code.js
+../../../../exploits/PS4%20(6.72)/App2USB/exploit.js
+../../../../exploits/PS4%20(6.72)/App2USB/helpers.js
+../../../../exploits/PS4%20(6.72)/App2USB/index.html
+../../../../exploits/PS4%20(6.72)/App2USB/jailbreak.js
+../../../../exploits/PS4%20(6.72)/App2USB/loader.js
+../../../../exploits/PS4%20(6.72)/App2USB/malloc.js
+../../../../exploits/PS4%20(6.72)/App2USB/payload.js
+../../../../exploits/PS4%20(6.72)/App2USB/rop.js
+../../../../exploits/PS4%20(6.72)/App2USB/syscalls.js
+
+NETWORK:
+*
+
+# Hash: 9FD26014C3B5B28BA8BB9E5BCEF37522
